@@ -561,7 +561,6 @@ async def main():
 {magenta}| __ -|  |__|  |  | | | | {white}YouTube : {green}https://youtube.com/@d4rkcipherx
 {magenta}|_____|_____|_____|_|_|_| {green}Note : {white}MUST SUBSCRIBE MY YOUTUBE CHANNEL
         """
-        {Style.RESET_ALL}"""
     arg = argparse.ArgumentParser()
     arg.add_argument(
         "--data",
