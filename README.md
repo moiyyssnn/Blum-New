@@ -20,7 +20,6 @@ AUTO CLAIM FOR BLUM / @blum
 - [Thank You](#thank-you)
 
 
-
 # Warning
 
 All risks are borne by the user
